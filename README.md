@@ -1,2 +1,2 @@
 # URL-Shortner
-Made with flask
+Flask application used for URL shortening.
